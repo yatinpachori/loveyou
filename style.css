@@ -399,10 +399,10 @@ form button {
 	background-color: #00e677;
 }
 
-.text i {
+/* .text i {
 	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font-weight: 100;
-}
+} */
 
 .text pre {
 	margin-left: -115px;
@@ -410,9 +410,4 @@ form button {
 	font-size: 16px;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-weight: 500;
-}
-
-.text .iii{
-	font-weight: 500;
-	margin-left: -5px;
 }
